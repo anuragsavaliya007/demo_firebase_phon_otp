@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82453164902",
+    "project_id": "otpsubmit-ca4fe",
+    "storage_bucket": "otpsubmit-ca4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82453164902:android:811015bb4743df670c0ea7",
+        "android_client_info": {
+          "package_name": "com.example.demo_firebase_phon_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82453164902-8fdpcdllbr03n0qt2p2mtvqdimlhrggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBQmkWvqUclPE-4iOQ3yVF2nUPio9wHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82453164902-8fdpcdllbr03n0qt2p2mtvqdimlhrggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
